@@ -1,0 +1,23 @@
+.main {
+  width: 100%;
+  border: 1px solid black;
+  margin-bottom: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.price {
+  font-weight: bold;
+}
+
+button {
+  background-color: yellow;
+  border-radius: 3px;
+  border-color: black;
+  padding: 10px 5px;
+}
+
+.blue-button {
+  background-color: blue;
+}
